@@ -10,7 +10,3 @@ For more exercises, check out the pandas documentation, particularly the 10-minu
 One great exercise would be to retype out the entire section into a Jupyter Notebook of your own.
 
 Get hands-on with the code and see what it does.
-
-The next place you should check out are the top questions and answers on Stack Overflow for pandas. Often, these contain some of the most useful and common pandas functions. Be sure to play around with the different filters!
-
-Finally, always remember, the best way to learn something new to is try it. Make mistakes. Ask questions, get things wrong, take note of the things you do most often. And don't worry if you keep making the same mistake, pandas has many ways to do the same thing and is a big library. So it'll likely take a while before you get the hang of it.
