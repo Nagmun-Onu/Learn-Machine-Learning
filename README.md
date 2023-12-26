@@ -1,4 +1,4 @@
-# Introduction-To-Pandas
+# Introduction-To-Ml-Livraries
 This repository is dedicated to practicing different tasks with pandas. 
 It should be noted there may be more than one different way to answer a question or complete an exercise.
 Exercises are based off (and directly taken from) the quick introduction to pandas notebook Zero-to-mastery-ml udemy course.
